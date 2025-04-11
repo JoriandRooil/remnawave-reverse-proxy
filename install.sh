@@ -2436,7 +2436,7 @@ services:
         max-file: "5"
 
   remnawave:
-    image: remnawave/backend:latest
+    image: remnawave/backend:1.4.8
     container_name: remnawave
     hostname: remnawave
     restart: always
